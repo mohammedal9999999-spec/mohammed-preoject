@@ -1,0 +1,121 @@
+    /* ####################################################
+    :: Template Name: Essence - Fashion Ecommerce Template
+    :: Author: Colorlib
+    :: Author URL: https://colorlib.com
+    :: Description: Essence is smart & elegant fashion e-commerce Template. It's suitable for all e-commerce business platform.
+    :: Version: 1.0.0
+    :: Created: April 27, 2018
+    :: Last Updated: May 2, 2018
+    #################################################### */
+
+    /* ---------------------------------------
+    ##### - PLACE YOUR CUSTOM CSS HERE - #####
+    --------------------------------------- */
+   
+   
+    .header-area{
+        background-image: linear-gradient(to bottom, #090000, #3c3c3c);
+        
+      
+    }
+
+    #tar
+    {
+        color: aliceblue;
+        font-weight: bolder;
+        
+    }
+
+    #tar:hover
+    {
+        color: rgb(255, 169, 9);
+        
+    }
+
+
+      #hover-larg {
+        background-color: #090000;
+       
+       
+        transition: transform 0.3s ease;
+      }
+      
+      #hover-larg:hover {
+        transform: scale(1.9);
+      }
+
+      .body-shop
+      {
+        background-image: linear-gradient(to bottom, #000000, #ffffff);
+        
+      }
+
+
+
+      #catagory-shop
+      {
+        background-image: url(img/camouflage-145980_1920.png)
+        
+    }
+
+
+    #rows
+    {
+        background-image: url(img/camouflage-145980_1920.png)
+    
+    }
+    
+
+    #text-h6
+    {
+        color: white;
+    }
+
+
+    .table{
+      background-color: #504c44;
+    }
+
+
+    #tr-qty{
+    background-color: rgb(195, 198, 198);
+  }
+
+  #hover{
+    background-color: #e8bf08;
+    border-radius: 100%;
+    
+
+    animation: sunshin 0.8s linear infinite;
+  }
+  #hover:hover{
+    
+    
+    opacity: 1;
+    border-radius: 100px;
+    border-image: none;
+  }
+
+  @keyframes sunshin
+{
+    0%{
+    box-shadow: 0 0 3em white
+    }
+
+    25%{
+        box-shadow: 0 0 4em yellow;
+    }
+
+    50%{
+        box-shadow: 0 0 5em yellow;
+    }
+
+    75%{
+        box-shadow: 0 0 6em yellow;
+    }
+
+    100%{
+        box-shadow: 0 0 3em white;
+    }
+
+}
